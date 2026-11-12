@@ -1,0 +1,12 @@
+{
+  "name": "RythuSeva - Raithu Mithra Smart Farmhouse Assistant",
+  "description": "Smart Farmhouse Assistant in Telugu, Hindi & English: Seasonwise crop planner, AI plant health tracker, 7-day weather alerts, AP & Central government schemes, farm-to-render price transparency, and All-India crop production statistics with voice support and offline mode.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
